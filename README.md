@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on javascript and Java
 - 🌱 I’m currently learning typescript
-- 😄 Pronouns: ele/him
+- 😄 Pronouns: he/him
 
 <div align ="center">
   <a href="https://github.com/cesinhalius">
