@@ -1,7 +1,7 @@
 ## Oi, eu sou Cesar Augusto  👋
 
 - 🔭 I’m currently working on javascript and Java
-- 🌱 I’m currently learning typescript
+- 🌱 I’m currently learning typescript and python 
 - 😄 Pronouns: he/him
 
 <div align ="center">
